@@ -80,7 +80,7 @@ const A = {
   },
   "dark-secret": {
     p: "assets/images/dark-secret.jpeg",
-    v: "assets/videos/The-Last-Confession.mp4",
+    v: "assets/videos/The-Dark-Secret.mp4",
   },
 };
 const CH = {
